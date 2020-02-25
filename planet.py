@@ -1,0 +1,4 @@
+import wikipedia
+
+class Planetarium
+
